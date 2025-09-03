@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Head from 'next/head'
-import Navbar from '../components/navbar'
+import Navbar from '../components/Navbar'
 import Canvas from '../components/Canvas'
 import Controls from '../components/Controls'
 import TextSignature from '../components/TextSignature'
