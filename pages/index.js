@@ -15,6 +15,7 @@ export default function Home({ darkMode, setDarkMode }) {
     <>
       <Head>
         <title>Signature Maker - Create Your Digital Signature | Abhijit Pradhan</title>
+        <link rel="icon" href="https://img.icons8.com/?size=100&id=oZAinaxvg8AD&format=png&color=000000" />
         <meta name="description" content="Create beautiful digital signatures with our free signature maker tool. Draw or type your signature with customizable options." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
